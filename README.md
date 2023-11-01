@@ -1,2 +1,2 @@
 # Project-1
-Student assignment management system for College
+Student assignment management portal for College
